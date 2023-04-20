@@ -180,6 +180,10 @@ header p {
     .stars__card:nth-child(2) {
         transform: translateX(-0%);
     }
+    
+    .stars__card {
+        width: 366px;
+    }
 
     header {
         text-align: center;
